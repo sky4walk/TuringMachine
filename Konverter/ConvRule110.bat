@@ -1,0 +1,1 @@
+java -classpath ../Konverter;../TMSimulator CTS2Rule110

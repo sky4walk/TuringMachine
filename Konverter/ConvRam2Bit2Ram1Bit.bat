@@ -1,0 +1,1 @@
+java -classpath ../Konverter;../TMSimulator Converter ../TMDefs/RAMonTM(2Bit).tm > ../TMDefs/RAMonTM(1Bit).tm
